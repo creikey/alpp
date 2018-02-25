@@ -1,5 +1,5 @@
-#ifndef TEST_SQUARES_SQUARE_H_
-#define TEST_SQUARES_SQUARE_H_
+#ifndef H_SQUARE
+#define H_SQUARE
 
 #include <alpp.hpp>
 using namespace alpp;
@@ -15,4 +15,5 @@ private:
   vec pos;
   vec size;
 }
-#endif // TEST_SQUARES_SQUARE_H_
+
+#endif // H_SQUARE
